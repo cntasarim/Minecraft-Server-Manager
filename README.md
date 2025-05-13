@@ -60,37 +60,37 @@ python main.py
 inecraft Server Manager arayüzünden bazı görüntüler:
 
 ### 🔧 Sunucu Kontrol Paneli
-![Sunucu Kontrol](mc/Screenshot_1.jpg)
+![Sunucu Kontrol](mcs/Screenshot_1.jpg)
 
 ### 📦 Modpack Kurulumu (CurseForge & Vanilla)
-![Modpack Kurulumu](mc/Screenshot_2.jpg)
+![Modpack Kurulumu](mcs/Screenshot_2.jpg)
 
 ### ☕ Java Kurulumu Otomatik
-![Java Otomatik İndirme](mc/Screenshot_3.jpg)
+![Java Otomatik İndirme](mcs/Screenshot_3.jpg)
 
 ### 💾 Yedekleme ve Geri Yükleme
-![Yedekleme Paneli](mc/Screenshot_4.jpg)
+![Yedekleme Paneli](mcs/Screenshot_4.jpg)
 
 ### 📁 Dosya Yöneticisi (Config Düzenleme)
-![Dosya Yönetimi](mc/Screenshot_5.jpg)
+![Dosya Yönetimi](mcs/Screenshot_5.jpg)
 
 ### 🌐 FTP Sunucusu Kurulumu
-![FTP Ayarları](mc/Screenshot_6.jpg)
+![FTP Ayarları](mcs/Screenshot_6.jpg)
 
 ### 🔌 RCON Konsolu ve Loglar
-![RCON Konsolu](mc/Screenshot_7.jpg)
+![RCON Konsolu](mcs/Screenshot_7.jpg)
 
 ### 🛢️ MySQL Yönetim Paneli
-![MySQL](mc/Screenshot_8.jpg)
+![MySQL](mcs/Screenshot_8.jpg)
 
 ### 📋 Kurulum Bilgilendirme
-![Kurulum Ekranı](mc/Screenshot_9.jpg)
+![Kurulum Ekranı](mcs/Screenshot_9.jpg)
 
 ### 📊 Uygulama Logları
-![Log Paneli](mc/Screenshot_10.jpg)
+![Log Paneli](mcs/Screenshot_10.jpg)
 
 ### 📚 Çok Sekmeli Yapı
-![Sekmeli Arayüz](mc/Screenshot_11.jpg)
+![Sekmeli Arayüz](mcs/Screenshot_11.jpg)
 
 ## Ön Koşullar
 
