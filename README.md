@@ -56,41 +56,71 @@ python main.py
   - Windows ve Linux desteği (macOS test edilmemiştir).
 
 ## Ekran Görüntüleri
+Uygulamanın bazı işlevsel ekranlarına dair örnekler aşağıda sunulmuştur:
 
-inecraft Server Manager arayüzünden bazı görüntüler:
+### 🎛️ Sunucu Kontrol Paneli
+Minecraft sunucusunu başlatma, durdurma ve yeniden başlatma; IP bilgileri, çevrimiçi oyuncular ve RAM ayarları.
+![Sunucu Yönetimi](mcs/Screenshot_1.jpg)
 
-### 🔧 Sunucu Kontrol Paneli
-![Sunucu Kontrol](mcs/Screenshot_1.jpg)
+---
 
-### 📦 Modpack Kurulumu (CurseForge & Vanilla)
-![Modpack Kurulumu](mcs/Screenshot_2.jpg)
+### 🖥️ Sunucu Konsolu ve Log Takibi
+Sunucu loglarını gerçek zamanlı görüntüleme paneli.
+![Sunucu Konsolu](mcs/Screenshot_2.jpg)
 
-### ☕ Java Kurulumu Otomatik
-![Java Otomatik İndirme](mcs/Screenshot_3.jpg)
+---
 
-### 💾 Yedekleme ve Geri Yükleme
-![Yedekleme Paneli](mcs/Screenshot_4.jpg)
+### 📜 EULA Kabul Penceresi
+Sunucunun çalışabilmesi için gereken EULA onayı kullanıcıya sorulur.
+![EULA Sorgusu](mcs/Screenshot_3.jpg)
 
-### 📁 Dosya Yöneticisi (Config Düzenleme)
-![Dosya Yönetimi](mcs/Screenshot_5.jpg)
+---
 
-### 🌐 FTP Sunucusu Kurulumu
-![FTP Ayarları](mcs/Screenshot_6.jpg)
+### 🧾 Dosya Yöneticisi (Config Düzenleme)
+server.properties dahil yapılandırma dosyalarını düzenleyebileceğiniz entegre bir metin editörü.
+![Dosya Editörü](mcs/Screenshot_4.jpg)
 
-### 🔌 RCON Konsolu ve Loglar
-![RCON Konsolu](mcs/Screenshot_7.jpg)
+---
 
-### 🛢️ MySQL Yönetim Paneli
-![MySQL](mcs/Screenshot_8.jpg)
+### 🗃️ Sunucu Yedekleme Paneli
+Yedek alıp geri yükleme işlemleri kolayca yapılabilir.
+![Yedekleme](mcs/Screenshot_5.jpg)
 
-### 📋 Kurulum Bilgilendirme
-![Kurulum Ekranı](mcs/Screenshot_9.jpg)
+---
 
-### 📊 Uygulama Logları
-![Log Paneli](mcs/Screenshot_10.jpg)
+### 🔌 RCON Yönetimi
+RCON şifresi belirleme ve bağlantı testi yapılabilir.
+![RCON Ayarları](mcs/Screenshot_6.jpg)
 
-### 📚 Çok Sekmeli Yapı
-![Sekmeli Arayüz](mcs/Screenshot_11.jpg)
+---
+
+### 🌐 FTP Sunucu Ayarları
+Kullanıcı adı, şifre ve port belirleyerek FTP sunucusunu başlatıp durdurabilirsiniz.
+![FTP Paneli](mcs/Screenshot_7.jpg)
+
+---
+
+### 🔁 Minecraft Sürüm Kurulumu (Vanilla)
+Minecraft'ın tüm Vanilla sürümleri listelenir, tek tıklamayla kurulum yapılabilir.
+![Vanilla Kurulum](mcs/Screenshot_8.jpg)
+
+---
+
+### 🔥 Modpack Kurulumu (CurseForge)
+CurseForge modpack'leri API üzerinden çekilir ve kurulabilir.
+![Modpack Kurulum](mcs/Screenshot_9.jpg)
+
+---
+
+### 📋 Log Alanı ve Bildirimler
+Konsola yazılan her işlem bu alanda da saklanır, başlatıldığında durumlar burada görülür.
+![Loglar](mcs/Screenshot_10.jpg)
+
+---
+
+### 🛢️ MySQL Yönetimi
+Portable MySQL kurulumu sonrası veritabanı oluşturma ve test etme ekranı.
+![MySQL Paneli](mcs/Screenshot_11.jpg)
 
 ## Ön Koşullar
 
